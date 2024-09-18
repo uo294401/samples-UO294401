@@ -17,4 +17,6 @@ public class Ignacio {
 	private void Nothing3() {
 		for(int i=0;i<(int)Double.POSITIVE_INFINITY;i++) {}
 	}
+	
+	// ACTUALIZADO
 }
