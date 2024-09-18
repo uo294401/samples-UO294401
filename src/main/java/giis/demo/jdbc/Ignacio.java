@@ -13,7 +13,7 @@ public class Ignacio {
 		for(;;) {}
 	}
 
-	// VERSION 1.3
+	// VERSION 1.3fg
 	private void Nothing3() {
 		for(int i=0;i<(int)Double.POSITIVE_INFINITY;i++) {}
 	}
