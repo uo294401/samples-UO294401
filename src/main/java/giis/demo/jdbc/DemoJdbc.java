@@ -29,8 +29,8 @@ import giis.demo.util.UnexpectedException;
  * (5) Uso de campos autoincrementales
  */
 public class DemoJdbc {
-	//informacion de conexion a la base de datos utilizada
-	public static final String DRIVER="org.sqlite.JDBC";
+	//informacion de conexion a la base de datos utilizada.
+	public static final String DRIVER="HOLA";
 	public static final String URL="jdbc:sqlite:DemoDB.db";
 
 	private static final Logger log=LoggerFactory.getLogger(DemoJdbc.class);
