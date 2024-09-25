@@ -1,34 +1,37 @@
--Automatizar deporte Universidad
-- Para mimebros universidada y a veces familiares o personal ajeno trimestral
--> Futbol, Yoga,...
--> También salidas, eventos
+🏫 Automatización de Actividades Deportivas Universitarias
 
+Objetivo: Gestionar actividades deportivas trimestrales para miembros de la universidad, así como familiares y personal externo. Las actividades incluyen fútbol ⚽, yoga 🧘‍♀️ y eventos especiales 🎉.
 
-GESTION DE ACTIVIDADES TRIMESTRALES 
+Proceso de Gestión de Actividades:
 
+Aprobación y Organización:
 
--> Se aprueban por la Universidad por Septiembre
--> Se fija la fecha inicio, fin , horarios, periodos de matricula
--> Numero de plazas máximo, no les mandan pagar hasta que se cubra el mínimo
--> Seleccionar activdada-> pagar y se matriculan
--> Si estan todas ocupadas no se pueden matricular, pero si en la lista de espera para que puedan ser avisados
--> Se fijan unos plazos para cada tipo de ususario: Miembros desde el 1 septiembre , el 20 septiembre familiares universidad
--> Un plazo para universitarios, familia y publico en general
--> Si la actividad tiene un numero de plazas minimo tiene que tener una fecha de fin de matricula, no podemos esperar indefinidmante, 
-y no se imparte actividad
+Las actividades se aprueban en septiembre 📅.
+Se establecen fechas de inicio y fin, horarios ⏰, y períodos de matrícula.
+Se determina el número máximo de plazas; no se requiere pago 💳 hasta alcanzar el mínimo necesario de inscripciones.
+Inscripción:
 
--> Precios van en funcion del tipo de uusario, no paga lo mismo el alumno que elñ padre del alumno, se pueden
-sacar las tarjeas deportivas , y luego puede con precios rebajados
+Los usuarios seleccionan la actividad y realizan el pago para matricularse 📝.
+Si las plazas están completas, pueden inscribirse en una lista de espera 📋 para ser notificados de posibles vacantes.
+Los plazos de inscripción son diferenciados:
+Miembros universitarios: desde el 1 de septiembre 🗓️.
+Familiares: desde el 20 de septiembre 👨‍👩‍👧‍👦.
+Público en general: plazo adicional ⏳.
+Condiciones de Inscripción:
 
--> Las actividades deportivas van dirigidas por un profesor, los monitores tienen que tenear actividades asigandas
-no se solapan , y tienen que ver en una lista cuantas tienen asignadas.
--> Tiene que haber un control de asistencia para los monitores y las personas.
--> Todas las actividades se planifican en instalaciondes d ela universidada, no puede a ver.
--> Las pistas de tenis se podrian alquilar maximo 2 horas y maximo 1 semana.
--> Hay ocasiones en las que son alquiladas por entidades, por dias y horas sin la restricion de las 2 horas.
-Estas reservas se tienen que hacer al mnos una hora antes del eeveneto, con un precio, por ejemepelo 1 dia o asi
--> Hay actividades de entidaees externas que se realizar durate todo el curso academico, por ejemplo Las Dominicas alquila Tnies
--> Tiene que solicitarse en Septiembre
--> Se pueden cancelar el dinero, solo a veces
+Si una actividad no alcanza el número mínimo de inscripciones, se establece una fecha límite para el cierre de matrícula 🚫, y la actividad no se impartirá.
+Los precios varían según el tipo de usuario; los alumnos 💼 pagan menos que sus familiares. También se ofrecen tarjetas deportivas con tarifas reducidas 💳.
+Gestión de Monitores:
 
--> Dar soporte a actividades, asistencias, instalaciones, etc...
+Las actividades son dirigidas por profesores 👨‍🏫, quienes deben tener asignadas actividades sin solapamientos.
+Se lleva un control de asistencia tanto para monitores como para participantes ✅.
+Instalaciones:
+
+Todas las actividades se realizan en las instalaciones de la universidad 🏟️, y las pistas de tenis 🎾 pueden alquilarse por un máximo de 2 horas a la semana.
+Reservas especiales para entidades externas se permiten sin restricciones de tiempo, con un aviso mínimo de una hora antes del evento 🕐 y un costo definido 💰.
+Actividades Externas:
+
+Las entidades externas pueden realizar actividades durante el año académico (ej. Las Dominicas alquila canchas de tenis) 🏅. Deben solicitar la reserva en septiembre 📅 y se permite la cancelación de pagos en circunstancias específicas 🔄.
+Soporte General:
+
+Proveer asistencia en la gestión de actividades, control de asistencia y uso de instalaciones 🛠️.
